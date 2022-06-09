@@ -1,0 +1,196 @@
+2022-06-01 08:17:38.926 | DEBUG    | __main__:<module>:8 - 这是一条debug日志
+2022-06-01 08:17:38.927 | INFO     | __main__:<module>:9 - 这是一条info日志
+2022-06-01 08:17:38.928 | WARNING  | __main__:<module>:10 - 这是一条warning日志
+2022-06-01 08:17:38.928 | SUCCESS  | __main__:<module>:11 - 这是一条success日志
+2022-06-01 08:17:38.929 | ERROR    | __main__:<module>:12 - 这是一条error日志
+2022-06-01 08:19:06.425 | DEBUG    | __main__:<module>:8 - 这是一条debug日志
+2022-06-01 08:19:06.426 | INFO     | __main__:<module>:9 - 这是一条info日志
+2022-06-01 08:19:06.427 | WARNING  | __main__:<module>:10 - 这是一条warning日志
+2022-06-01 08:19:06.428 | SUCCESS  | __main__:<module>:11 - 这是一条success日志
+2022-06-01 08:19:06.463 | ERROR    | __main__:<module>:12 - 这是一条error日志
+2022-06-01T08:21:42.770993+0800 | DEBUG | 这是一条debug日志
+2022-06-01T08:21:42.771995+0800 | INFO | 这是一条info日志
+2022-06-01T08:21:42.771995+0800 | WARNING | 这是一条warning日志
+2022-06-01T08:21:42.773015+0800 | SUCCESS | 这是一条success日志
+2022-06-01T08:21:42.773015+0800 | ERROR | 这是一条error日志
+2022-06-01 10:09:01.683 | DEBUG    | __main__:<module>:8 - 这是一条debug日志
+2022-06-01 10:09:01.684 | INFO     | __main__:<module>:9 - 这是一条info日志
+2022-06-01 10:09:01.684 | WARNING  | __main__:<module>:10 - 这是一条warning日志
+2022-06-01 10:09:01.684 | SUCCESS  | __main__:<module>:11 - 这是一条success日志
+2022-06-01 10:09:01.684 | ERROR    | __main__:<module>:12 - 这是一条error日志
+
+
+2022-06-01 10:10:13.813 | DEBUG    | __main__:<module>:8 - 这是一条debug日志
+2022-06-01 10:10:13.813 | INFO     | __main__:<module>:9 - 这是一条info日志
+2022-06-01 10:10:13.814 | WARNING  | __main__:<module>:10 - 这是一条warning日志
+2022-06-01 10:10:13.814 | SUCCESS  | __main__:<module>:11 - 这是一条success日志
+2022-06-01 10:10:13.814 | ERROR    | __main__:<module>:12 - 这是一条error日志
+2022-06-01 10:10:13.819 | DEBUG    | __main__:<module>:15 - 这是一条debug日志
+2022-06-01T10:10:13.819930+0800 | DEBUG | demo_loguru | 这是一条debug日志
+2022-06-01 10:10:13.820 | INFO     | __main__:<module>:16 - 这是一条info日志
+2022-06-01T10:10:13.820930+0800 | INFO | demo_loguru | 这是一条info日志
+2022-06-01 10:10:13.821 | WARNING  | __main__:<module>:17 - 这是一条warning日志
+2022-06-01T10:10:13.821930+0800 | WARNING | demo_loguru | 这是一条warning日志
+2022-06-01 10:10:13.821 | SUCCESS  | __main__:<module>:18 - 这是一条success日志
+2022-06-01T10:10:13.821930+0800 | SUCCESS | demo_loguru | 这是一条success日志
+2022-06-01 10:10:13.821 | ERROR    | __main__:<module>:19 - 这是一条error日志
+2022-06-01T10:10:13.821930+0800 | ERROR | demo_loguru | 这是一条error日志
+2022-06-01 10:11:58.345 | DEBUG    | __main__:<module>:8 - 这是一条debug日志
+2022-06-01 10:11:58.346 | INFO     | __main__:<module>:9 - 这是一条info日志
+2022-06-01 10:11:58.346 | WARNING  | __main__:<module>:10 - 这是一条warning日志
+2022-06-01 10:11:58.346 | SUCCESS  | __main__:<module>:11 - 这是一条success日志
+2022-06-01 10:11:58.347 | ERROR    | __main__:<module>:12 - 这是一条error日志
+2022-06-01 10:11:58.354 | DEBUG    | __main__:<module>:15 - 这是一条debug日志
+2022-06-01T10:11:58.354041+0800 | DEBUG | 15 | demo_loguru | 这是一条debug日志
+2022-06-01 10:11:58.354 | INFO     | __main__:<module>:16 - 这是一条info日志
+2022-06-01T10:11:58.354041+0800 | INFO | 16 | demo_loguru | 这是一条info日志
+2022-06-01 10:11:58.355 | WARNING  | __main__:<module>:17 - 这是一条warning日志
+2022-06-01T10:11:58.355042+0800 | WARNING | 17 | demo_loguru | 这是一条warning日志
+2022-06-01 10:11:58.356 | SUCCESS  | __main__:<module>:18 - 这是一条success日志
+2022-06-01T10:11:58.356041+0800 | SUCCESS | 18 | demo_loguru | 这是一条success日志
+2022-06-01 10:11:58.356 | ERROR    | __main__:<module>:19 - 这是一条error日志
+2022-06-01T10:11:58.356041+0800 | ERROR | 19 | demo_loguru | 这是一条error日志
+2022-06-01 10:16:31.361 | DEBUG    | __main__:<module>:8 - 这是一条debug日志
+2022-06-01 10:16:31.361 | INFO     | __main__:<module>:9 - 这是一条info日志
+2022-06-01 10:16:31.362 | WARNING  | __main__:<module>:10 - 这是一条warning日志
+2022-06-01 10:16:31.362 | SUCCESS  | __main__:<module>:11 - 这是一条success日志
+2022-06-01 10:16:31.362 | ERROR    | __main__:<module>:12 - 这是一条error日志
+2022-06-01 10:16:46.727 | DEBUG    | __main__:<module>:8 - 这是一条debug日志
+2022-06-01 10:16:46.727 | INFO     | __main__:<module>:9 - 这是一条info日志
+2022-06-01 10:16:46.728 | WARNING  | __main__:<module>:10 - 这是一条warning日志
+2022-06-01 10:16:46.728 | SUCCESS  | __main__:<module>:11 - 这是一条success日志
+2022-06-01 10:16:46.728 | ERROR    | __main__:<module>:12 - 这是一条error日志
+2022-06-01 10:16:46.731 | DEBUG    | __main__:<module>:15 - 这是一条debug日志
+2022-06-01 at 10:16:46 | DEBUG | 15 | demo_loguru | 这是一条debug日志
+2022-06-01 10:16:46.732 | INFO     | __main__:<module>:16 - 这是一条info日志
+2022-06-01 at 10:16:46 | INFO | 16 | demo_loguru | 这是一条info日志
+2022-06-01 10:16:46.732 | WARNING  | __main__:<module>:17 - 这是一条warning日志
+2022-06-01 at 10:16:46 | WARNING | 17 | demo_loguru | 这是一条warning日志
+2022-06-01 10:16:46.732 | SUCCESS  | __main__:<module>:18 - 这是一条success日志
+2022-06-01 at 10:16:46 | SUCCESS | 18 | demo_loguru | 这是一条success日志
+2022-06-01 10:16:46.733 | ERROR    | __main__:<module>:19 - 这是一条error日志
+2022-06-01 at 10:16:46 | ERROR | 19 | demo_loguru | 这是一条error日志
+2022-06-01 10:17:36.687 | DEBUG    | __main__:<module>:8 - 这是一条debug日志
+2022-06-01 10:17:36.688 | INFO     | __main__:<module>:9 - 这是一条info日志
+2022-06-01 10:17:36.688 | WARNING  | __main__:<module>:10 - 这是一条warning日志
+2022-06-01 10:17:36.688 | SUCCESS  | __main__:<module>:11 - 这是一条success日志
+2022-06-01 10:17:36.688 | ERROR    | __main__:<module>:12 - 这是一条error日志
+2022-06-01 10:20:30.666 | DEBUG    | __main__:<module>:8 - 这是一条debug日志
+2022-06-01 10:20:30.667 | INFO     | __main__:<module>:9 - 这是一条info日志
+2022-06-01 10:20:30.667 | WARNING  | __main__:<module>:10 - 这是一条warning日志
+2022-06-01 10:20:30.668 | SUCCESS  | __main__:<module>:11 - 这是一条success日志
+2022-06-01 10:20:30.668 | ERROR    | __main__:<module>:12 - 这是一条error日志
+2022-06-01 10:20:30.674 | DEBUG    | __main__:<module>:15 - 这是一条debug日志
+2022-06-01 at 10:20:30 | DEBUG | 15 | demo_loguru | 这是一条debug日志
+2022-06-01 10:20:30.674 | INFO     | __main__:<module>:16 - 这是一条info日志
+2022-06-01 at 10:20:30 | INFO | 16 | demo_loguru | 这是一条info日志
+2022-06-01 10:20:30.675 | WARNING  | __main__:<module>:17 - 这是一条warning日志
+2022-06-01 at 10:20:30 | WARNING | 17 | demo_loguru | 这是一条warning日志
+2022-06-01 10:20:30.675 | SUCCESS  | __main__:<module>:18 - 这是一条success日志
+2022-06-01 at 10:20:30 | SUCCESS | 18 | demo_loguru | 这是一条success日志
+2022-06-01 10:20:30.676 | ERROR    | __main__:<module>:19 - 这是一条error日志
+2022-06-01 at 10:20:30 | ERROR | 19 | demo_loguru | 这是一条error日志
+2022-06-01 10:20:30.676 | INFO     | __main__:<module>:22 - 我的名字叫张三,今天星期几
+2022-06-01 at 10:20:30 | INFO | 22 | demo_loguru | 我的名字叫张三,今天星期几
+2022-06-01 10:21:20.058 | DEBUG    | __main__:<module>:8 - 这是一条debug日志
+2022-06-01 10:21:20.059 | INFO     | __main__:<module>:9 - 这是一条info日志
+2022-06-01 10:21:20.059 | WARNING  | __main__:<module>:10 - 这是一条warning日志
+2022-06-01 10:21:20.059 | SUCCESS  | __main__:<module>:11 - 这是一条success日志
+2022-06-01 10:21:20.059 | ERROR    | __main__:<module>:12 - 这是一条error日志
+2022-06-01 10:21:20.063 | DEBUG    | __main__:<module>:15 - 这是一条debug日志
+2022-06-01 at 10:21:20 | DEBUG | 15 | demo_loguru | 这是一条debug日志
+2022-06-01 10:21:20.064 | INFO     | __main__:<module>:16 - 这是一条info日志
+2022-06-01 at 10:21:20 | INFO | 16 | demo_loguru | 这是一条info日志
+2022-06-01 10:21:20.064 | WARNING  | __main__:<module>:17 - 这是一条warning日志
+2022-06-01 at 10:21:20 | WARNING | 17 | demo_loguru | 这是一条warning日志
+2022-06-01 10:21:20.064 | SUCCESS  | __main__:<module>:18 - 这是一条success日志
+2022-06-01 at 10:21:20 | SUCCESS | 18 | demo_loguru | 这是一条success日志
+2022-06-01 10:21:20.065 | ERROR    | __main__:<module>:19 - 这是一条error日志
+2022-06-01 at 10:21:20 | ERROR | 19 | demo_loguru | 这是一条error日志
+2022-06-01 10:21:20.065 | INFO     | __main__:<module>:22 - 我的名字叫张三,今天星期几
+2022-06-01 at 10:21:20 | INFO | 22 | demo_loguru | 我的名字叫张三,今天星期几
+2022-06-01 10:21:33.194 | DEBUG    | __main__:<module>:8 - 这是一条debug日志
+2022-06-01 10:21:33.194 | INFO     | __main__:<module>:9 - 这是一条info日志
+2022-06-01 10:21:33.195 | WARNING  | __main__:<module>:10 - 这是一条warning日志
+2022-06-01 10:21:33.195 | SUCCESS  | __main__:<module>:11 - 这是一条success日志
+2022-06-01 10:21:33.196 | ERROR    | __main__:<module>:12 - 这是一条error日志
+2022-06-01 10:21:33.201 | DEBUG    | __main__:<module>:15 - 这是一条debug日志
+2022-06-01 at 10:21:33 | DEBUG | 15 | demo_loguru | 这是一条debug日志
+2022-06-01 10:21:33.201 | INFO     | __main__:<module>:16 - 这是一条info日志
+2022-06-01 at 10:21:33 | INFO | 16 | demo_loguru | 这是一条info日志
+2022-06-01 10:21:33.202 | WARNING  | __main__:<module>:17 - 这是一条warning日志
+2022-06-01 at 10:21:33 | WARNING | 17 | demo_loguru | 这是一条warning日志
+2022-06-01 10:21:33.202 | SUCCESS  | __main__:<module>:18 - 这是一条success日志
+2022-06-01 at 10:21:33 | SUCCESS | 18 | demo_loguru | 这是一条success日志
+2022-06-01 10:21:33.202 | ERROR    | __main__:<module>:19 - 这是一条error日志
+2022-06-01 at 10:21:33 | ERROR | 19 | demo_loguru | 这是一条error日志
+2022-06-01 10:21:33.203 | INFO     | __main__:<module>:22 - 我的名字叫张三,今天星期几
+2022-06-01 at 10:21:33 | INFO | 22 | demo_loguru | 我的名字叫张三,今天星期几
+2022-06-01 10:21:42.974 | DEBUG    | __main__:<module>:8 - 这是一条debug日志
+2022-06-01 10:21:42.975 | INFO     | __main__:<module>:9 - 这是一条info日志
+2022-06-01 10:21:42.975 | WARNING  | __main__:<module>:10 - 这是一条warning日志
+2022-06-01 10:21:42.975 | SUCCESS  | __main__:<module>:11 - 这是一条success日志
+2022-06-01 10:21:42.976 | ERROR    | __main__:<module>:12 - 这是一条error日志
+2022-06-01 10:21:42.981 | DEBUG    | __main__:<module>:15 - 这是一条debug日志
+2022-06-01 at 10:21:42 | DEBUG | 15 | demo_loguru | 这是一条debug日志
+2022-06-01 10:21:42.981 | INFO     | __main__:<module>:16 - 这是一条info日志
+2022-06-01 at 10:21:42 | INFO | 16 | demo_loguru | 这是一条info日志
+2022-06-01 10:21:42.982 | WARNING  | __main__:<module>:17 - 这是一条warning日志
+2022-06-01 at 10:21:42 | WARNING | 17 | demo_loguru | 这是一条warning日志
+2022-06-01 10:21:42.982 | SUCCESS  | __main__:<module>:18 - 这是一条success日志
+2022-06-01 at 10:21:42 | SUCCESS | 18 | demo_loguru | 这是一条success日志
+2022-06-01 10:21:42.983 | ERROR    | __main__:<module>:19 - 这是一条error日志
+2022-06-01 at 10:21:42 | ERROR | 19 | demo_loguru | 这是一条error日志
+2022-06-01 10:21:42.983 | INFO     | __main__:<module>:22 - 我的名字叫张三,今天星期几一
+2022-06-01 at 10:21:42 | INFO | 22 | demo_loguru | 我的名字叫张三,今天星期几一
+2022-06-07 17:48:51.788 | DEBUG    | __main__:<module>:8 - 这是一条debug日志
+2022-06-07 17:48:51.788 | INFO     | __main__:<module>:9 - 这是一条info日志
+2022-06-07 17:48:51.789 | WARNING  | __main__:<module>:10 - 这是一条warning日志
+2022-06-07 17:48:51.789 | SUCCESS  | __main__:<module>:11 - 这是一条success日志
+2022-06-07 17:48:51.789 | ERROR    | __main__:<module>:12 - 这是一条error日志
+2022-06-07 17:48:51.793 | DEBUG    | __main__:<module>:15 - 这是一条debug日志
+2022-06-07 at 17:48:51 | DEBUG | 15 | demo_loguru | 这是一条debug日志
+2022-06-07 17:48:51.793 | INFO     | __main__:<module>:16 - 这是一条info日志
+2022-06-07 at 17:48:51 | INFO | 16 | demo_loguru | 这是一条info日志
+2022-06-07 17:48:51.794 | WARNING  | __main__:<module>:17 - 这是一条warning日志
+2022-06-07 at 17:48:51 | WARNING | 17 | demo_loguru | 这是一条warning日志
+2022-06-07 17:48:51.794 | SUCCESS  | __main__:<module>:18 - 这是一条success日志
+2022-06-07 at 17:48:51 | SUCCESS | 18 | demo_loguru | 这是一条success日志
+2022-06-07 17:48:51.794 | ERROR    | __main__:<module>:19 - 这是一条error日志
+2022-06-07 at 17:48:51 | ERROR | 19 | demo_loguru | 这是一条error日志
+2022-06-07 17:48:51.796 | INFO     | __main__:<module>:22 - 我的名字叫张三,今天星期几一
+2022-06-07 at 17:48:51 | INFO | 22 | demo_loguru | 我的名字叫张三,今天星期几一
+2022-06-07 17:57:41.785 | DEBUG    | __main__:<module>:8 - 这是一条debug日志
+2022-06-07 17:57:41.786 | INFO     | __main__:<module>:9 - 这是一条info日志
+2022-06-07 17:57:41.786 | WARNING  | __main__:<module>:10 - 这是一条warning日志
+2022-06-07 17:57:41.787 | SUCCESS  | __main__:<module>:11 - 这是一条success日志
+2022-06-07 17:57:41.787 | ERROR    | __main__:<module>:12 - 这是一条error日志
+2022-06-07 17:57:41.792 | DEBUG    | __main__:<module>:15 - 这是一条debug日志
+2022-06-07 at 17:57:41 | DEBUG | 15 | demo_loguru | 这是一条debug日志
+2022-06-07 17:57:41.792 | INFO     | __main__:<module>:16 - 这是一条info日志
+2022-06-07 at 17:57:41 | INFO | 16 | demo_loguru | 这是一条info日志
+2022-06-07 17:57:41.792 | WARNING  | __main__:<module>:17 - 这是一条warning日志
+2022-06-07 at 17:57:41 | WARNING | 17 | demo_loguru | 这是一条warning日志
+2022-06-07 17:57:41.793 | SUCCESS  | __main__:<module>:18 - 这是一条success日志
+2022-06-07 at 17:57:41 | SUCCESS | 18 | demo_loguru | 这是一条success日志
+2022-06-07 17:57:41.793 | ERROR    | __main__:<module>:19 - 这是一条error日志
+2022-06-07 at 17:57:41 | ERROR | 19 | demo_loguru | 这是一条error日志
+2022-06-07 17:57:41.793 | INFO     | __main__:<module>:22 - 我的名字叫张三,今天星期几一
+2022-06-07 at 17:57:41 | INFO | 22 | demo_loguru | 我的名字叫张三,今天星期几一
+2022-06-07 18:04:53.384 | DEBUG    | __main__:<module>:8 - 这是一条debug日志
+2022-06-07 18:04:53.385 | INFO     | __main__:<module>:9 - 这是一条info日志
+2022-06-07 18:04:53.385 | WARNING  | __main__:<module>:10 - 这是一条warning日志
+2022-06-07 18:04:53.386 | SUCCESS  | __main__:<module>:11 - 这是一条success日志
+2022-06-07 18:04:53.386 | ERROR    | __main__:<module>:12 - 这是一条error日志
+2022-06-07 18:04:53.391 | DEBUG    | __main__:<module>:15 - 这是一条debug日志
+2022-06-07 at 18:04:53 | DEBUG | 15 | demo_loguru | 这是一条debug日志
+2022-06-07 18:04:53.392 | INFO     | __main__:<module>:16 - 这是一条info日志
+2022-06-07 at 18:04:53 | INFO | 16 | demo_loguru | 这是一条info日志
+2022-06-07 18:04:53.392 | WARNING  | __main__:<module>:17 - 这是一条warning日志
+2022-06-07 at 18:04:53 | WARNING | 17 | demo_loguru | 这是一条warning日志
+2022-06-07 18:04:53.393 | SUCCESS  | __main__:<module>:18 - 这是一条success日志
+2022-06-07 at 18:04:53 | SUCCESS | 18 | demo_loguru | 这是一条success日志
+2022-06-07 18:04:53.393 | ERROR    | __main__:<module>:19 - 这是一条error日志
+2022-06-07 at 18:04:53 | ERROR | 19 | demo_loguru | 这是一条error日志
+2022-06-07 18:04:53.394 | INFO     | __main__:<module>:22 - 我的名字叫张三,今天星期几一
+2022-06-07 at 18:04:53 | INFO | 22 | demo_loguru | 我的名字叫张三,今天星期几一
